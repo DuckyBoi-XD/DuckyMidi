@@ -23,3 +23,18 @@ I was also able to select all the footprints of each component with the footprin
 
 Time Spent: 2 Hours
 ---
+
+## November 15th
+
+After finishing the schematics, I imported the PCB from the schematics editor to the PCB editor and sorted all the components. I positioned all the switches in the correct location, like the high octave switches being on the right side and the low octave on the left side. I also placed the rotary encoders, DAC, LCD pin headers, and MCU in a suitable position on the PCB. I added holes for the screw insert as well as the GND zone for all the GND pins. 
+
+I'm now ready to either create the code for the keyboard or create the case.
+
+<img width="998" height="402" alt="Screenshot 2025-11-15 at 4 36 08 PM" src="https://github.com/user-attachments/assets/9674a660-a629-4ad4-8d42-1b52660a03ce" />
+
+I also researched the parts I was going to use. This is semi-finished, and this is also just a rough estimate because I'm not completely sure how the midi kit would work.
+
+<img width="1168" height="346" alt="Screenshot 2025-11-15 at 4 46 16 PM" src="https://github.com/user-attachments/assets/32eb2a05-7fc6-4382-a9bb-f4a5ca8be4d4" />
+
+Time Spent: 3 Hours
+---
